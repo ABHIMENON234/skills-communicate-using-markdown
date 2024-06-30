@@ -26,5 +26,8 @@ Example commit message:
 
 
 Remember to save your changes and complete the pull request process.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
