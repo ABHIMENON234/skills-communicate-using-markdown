@@ -22,10 +22,7 @@ hello_world()
 3. **Commit the Changes**:
     - At the bottom of the page, type a short, meaningful commit message describing the change you made to the file. For example: `Added a Python code example to the index.md file`.
 
-Example commit message:
 
-
-Remember to save your changes and complete the pull request process.
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
